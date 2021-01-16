@@ -1,0 +1,16 @@
+name: panel
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - dask
+  - datashader
+  - geopandas
+  - holoviews
+  - hvplot
+  - jupyterlab
+  - jupyter-panel-proxy
+  - panel
+  - rasterio
+  - rioxarray
+  - xarray
