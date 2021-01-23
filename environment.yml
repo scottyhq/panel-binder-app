@@ -8,7 +8,7 @@ dependencies:
   - geopandas
   - holoviews
   - hvplot
-  - jupyterlab
+  - jupyterlab=3
   - jupyter-panel-proxy
   - panel
   - rasterio
